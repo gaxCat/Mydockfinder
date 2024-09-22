@@ -1,2 +1,2 @@
 # Mydockfinder
-Mydockfinder是一款Windows用户仿MAC的重要工具，其重要性达到99%。
+MyDockFinder是一款Windows模拟MacOS软件，能够帮助用户轻松下载各种桌面主题，带来不一样的电脑体验。软件可以直接接管Explorer进程，不需要更换主题、修改DLL等，满足用户MacOS模拟功能需求。
